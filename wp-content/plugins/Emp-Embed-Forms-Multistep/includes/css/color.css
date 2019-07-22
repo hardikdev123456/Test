@@ -1,0 +1,20 @@
+#color_368 .btn-black {
+    background-color: black !important;
+}
+#color_368 .emp-form .btn {
+    color: white !important;
+}
+#color_368 .stepwizard .setup-panel .active-step.btn-primary {
+    background-color: #720808 !important;
+    border-color: #720808 !important;
+}
+#color_368 .stepwizard .setup-panel .active-step.btn-primary:hover {
+    background-color: #720808 !important;
+}
+#color_368 .stepwizard .setup-panel .btn-default {
+    background-color:  #e56464 !important;
+    border-color: #e56464 !important;
+}
+#color_368 .stepwizard .setup-panel .btn-default:hover {
+    background-color: #e56464 !important;
+}
